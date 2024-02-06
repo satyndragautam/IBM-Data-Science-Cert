@@ -46,18 +46,20 @@ The following key tools out of other tools were predominantly used throughout th
 
 <br>
 
-<!-- ## 📖 Libraries
+## 📖 Libraries
 The following key Python libraries were used throughout the certification: <br> 
 <p align="left">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706127-ce41990f-2588-472a-b5df-6b403a5947e6.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706130-5577011e-ecb3-47aa-af73-f6bd1bda05bc.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706132-5939da7e-7d1e-43b8-9c46-2d3fe5198dda.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706135-85cdd35e-922a-414a-a198-c670fbf8fb25.svg" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706148-36f27f03-1967-45d1-82d8-f6c149c6f21c.svg" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706211-7966848a-a2e1-4c4a-bc08-594a4ca6ff07.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706214-d018bc5e-1477-4de2-94d7-5c0886e0477d.png" height="35">
-  <img  src="https://user-images.githubusercontent.com/84391594/152706217-c0cfd9d8-22ad-4c3b-9ac7-70a6cf2799f7.png" height="35"> <br>
-</p> -->
+  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/pandas.png" height="35"></a>
+  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/numpy.png" height="35"></a>
+  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/matplotlib.png" height="35"></a>
+  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/seaborn.png" height="35"></a>
+  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/rest-api.png" height="35"></a>
+  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/beautifulsoup.png" height="35"></a>
+  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/sci-py.png" height="35"></a>
+  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/sci-kit.png" height="35"></a>
+  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/folium_png.png" height="35"></a>
+  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/dash.png" height="35"></a><br>
+</p>
 
 <!-- ## 📂 Projects
 - [Extracting and Visualizing Stock Data](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment.ipynb)
@@ -72,8 +74,5 @@ The following key Python libraries were used throughout the certification: <br>
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
-<p align="middle">
-  <a href="https://coursera.org/share/50979ab49c9c006f9bf43312ea3c24b8"><img src="https://user-images.githubusercontent.com/84391594/161432598-5ebd00a7-7994-4a61-88af-c34fd7bebdc0.png" height="400"></a>
-  <a href="https://www.credly.com/badges/84b5d883-02e1-41d4-ba10-643ba6747b1e/public_url"><img src="https://user-images.githubusercontent.com/84391594/161432660-f158f03d-c164-43d4-92c6-b728868200e9.png" height="400"></a> -->
 
 
