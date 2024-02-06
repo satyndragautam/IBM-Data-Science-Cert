@@ -15,8 +15,8 @@ In this repository, there are resources that are needed to complete the certific
 
 Hello! 
 
-<!-- ## 📑 Courses
-- :white_check_mark: [01. What is Data Science?]()
+## 📑 Courses
+- :white_check_mark: [01. What is Data Science?](Course%201%20-%20What%20is%20Data%20Science)
 - :white_check_mark: [02. Tools for Data Science]()
 - :white_check_mark: [03. Data Science Methodology]()
 - :white_check_mark: [04. Python for Data Science, AI & Development]()
@@ -25,10 +25,10 @@ Hello!
 - :white_check_mark: [07. Data Analysis with Python]()
 - :white_check_mark: [08. Data Visualization with Python]()
 - :white_check_mark: [09. Machine Learning with Python]()
-- :white_check_mark: [10. Applied Data Science Capstone]() -->
+- :white_check_mark: [10. Applied Data Science Capstone]()
 
 ## 🛠️ Tools
-The following key tools out of other tools were used to complete this certification: <br> <br>
+The following key tools out of other tools were predominantly used throughout this certification: <br> <br>
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/python_img.png" height="75"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/jupyter_notebook.png" height="75"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/sqlite.png" height="75"></a>
