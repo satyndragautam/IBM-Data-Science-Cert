@@ -4,7 +4,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/satyndragautam/IBM-DataScience-Stuff?style=flat)
 
 
-![IBM](https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/header.png)
+![IBM](https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/header.png)
 
 ## 📄 About
 The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a> 
@@ -29,16 +29,16 @@ Hello!
 
 ## 🛠️ Tools
 The following key tools out of other tools were used to complete this certification: <br> <br>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/python_img.png" height="75"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/jupyter_notebook.png" height="75"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/sqlite.png" height="75"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/SQL.png" height="75"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/ibm.png" height="75"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/plotly.png" height="75"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/github.png" height="75"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/r-prog.png" height="75"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/ibm-watson.png" height="75"></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/ibm-cloud.png" height="75"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/python_img.png" height="75"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/jupyter_notebook.png" height="75"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/sqlite.png" height="75"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/SQL.png" height="75"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/ibm.png" height="75"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/plotly.png" height="75"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/github.png" height="75"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/r-prog.png" height="75"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/ibm-watson.png" height="75"></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/ibm-cloud.png" height="75"></a>
 
 </p>
 
