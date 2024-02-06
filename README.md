@@ -1,7 +1,7 @@
 
-![ViewCount](https://views.whatilearened.today/views/github/satyndragautam/IBM-DataScience-Stuff.svg?cache=remove)
-![GitHub top language](https://img.shields.io/github/languages/top/satyndragautam/IBM-DataScience-Stuff?style=flat)
-![GitHub language count](https://img.shields.io/github/languages/count/satyndragautam/IBM-DataScience-Stuff?style=flat)
+![ViewCount](https://views.whatilearened.today/views/github/satyndragautam/IBM-Data-Science-Cert.svg?cache=remove)
+![GitHub top language](https://img.shields.io/github/languages/top/satyndragautam/IBM-Data-Science-Cert?style=flat)
+![GitHub language count](https://img.shields.io/github/languages/count/satyndragautam/IBM-Data-Science-Cert?style=flat)
 
 
 ![IBM](https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/header.png)
