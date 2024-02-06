@@ -27,7 +27,7 @@ Hello!
 - :white_check_mark: [09. Machine Learning with Python]()
 - :white_check_mark: [10. Applied Data Science Capstone]() -->
 
-<!-- ## 🛠️ Tools
+## 🛠️ Tools
 The following key tools out of other tools were used to complete this certification: <br> <br>
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/python_img.png" height="75"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/jupyter_notebook.png" height="75"></a>
@@ -40,7 +40,7 @@ The following key tools out of other tools were used to complete this certificat
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/ibm-watson.png" height="75"></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/ibm-cloud.png" height="75"></a>
 
-</p> -->
+</p>
 
 <!-- ## 📖 Libraries
 The following key Python libraries were used throughout the certification: <br> 
