@@ -61,18 +61,27 @@ The following key Python libraries were used throughout the certification: <br>
   <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/dash.png" height="35"></a><br>
 </p>
 
-<!-- ## 📂 Projects
-- [Extracting and Visualizing Stock Data](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment.ipynb)
-- [Chicago Census, Crime, and School Data Analysis using SQL](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20Course%20Assignment/)
-- [House Price Predictions](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Predictions.ipynb)
-- [US Domestic Airline Flights Performance Dashboard](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/Final%20Assignment)
-- [Best Classifier Model](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb)
-- [Predicting Successful Rocket Landings](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone)
-- [Dashboard and Interactive Map](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/10.%20Applied%20Data%20Science%20Capstone/04.%20Interactive%20Visual%20Analytics)
+<br>
+
+## 📂 Projects
+- [Extracting and Visualizing Stock Data](https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/Course%205%20-%20Python%20Project/Basic%20Share%20Price%20%26%20Revenue%20Analysis%20-%20Tesla%20%26%20GME.ipynb)
+- [Chicago Census, Crime, and School Data Analysis using SQL](https://github.com/satyndragautam/IBM-Data-Science-Cert/tree/main/Course%206%20-%20Databases%20%26%20SQL%20for%20DS%20with%20Python)
+- [House Price Predictions](https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/Course%207%20-%20Data%20Analysis%20with%20Python/final_project_housing_pricing.ipynb)
+- [Multiple Projects in Course Module 08](https://github.com/satyndragautam/IBM-Data-Science-Cert/tree/main/Course%208%20-%20Data%20Visualization%20with%20Python)
+- [Best Classifier Model](https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/Course%209%20-%20Machine%20Learning%20with%20Python/Final_assignment_machine_learning_with_python.ipynb)
+- [Predicting Successful Rocket Landings and Interactive web-based app](https://github.com/satyndragautam/IBM-Data-Science-Cert/tree/main/Course%2010%20-%20IBM%20Capstone%20Project)
 
 
 ## 🏆 Certificates 
 To verify the certificates, click the images to follow the links.
 
+<p align="middle">
+  <a href="https://coursera.org/share/1446ac5ea1095b5973117386cc2e75a4"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/ibm_certi.png" height="400"></a>
 
+<br>
+<br>
+<br>
+<br>
+
+<hr>
 
