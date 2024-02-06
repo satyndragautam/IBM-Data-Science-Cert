@@ -1,10 +1,10 @@
 
-<!-- ![ViewCount](https://views.whatilearened.today/views/github/satyndragautam/IBM-DataScience-Stuff.svg?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/satyndragautam/IBM-DataScience-Stuff.svg?cache=remove)
 ![GitHub top language](https://img.shields.io/github/languages/top/satyndragautam/IBM-DataScience-Stuff?style=flat)
 ![GitHub language count](https://img.shields.io/github/languages/count/satyndragautam/IBM-DataScience-Stuff?style=flat)
 
 
-![IBM](https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/header.png) -->
+![IBM](https://github.com/satyndragautam/IBM-DataScience-Stuff/blob/main/images/header.png)
 
 ## 📄 About
 The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a> 
