@@ -10,7 +10,7 @@
 The <a href="https://www.coursera.org/professional-certificates/ibm-data-science">IBM Data Science Professional Certification</a> 
 offers a series of 10 course modules aimed at providing essential skills in data science. These courses cover a range of topics, including using open-source tools, programming in Python, database management, analyzing data, creating visualizations, applying statistical methods, and using machine learning algorithms for predictive modeling.
 
-In this repository, there are resources that are needed to complete the certification. Here, you'll find helpful materials such as notes, external sources/links, some images, code examples that accompany the courses. Additionally, this repository serves as a record of my progress, where you can provide evidence of completing each course successfully.
+In this repository, there are resources that were needed to complete the certification. Here, you'll find helpful materials such as notes, external sources and urls, some images, code examples that accompany the courses. Additionally, this repository serves as a record of my progress, where you can provide evidence of completing each course successfully.
 
 
 <br>
