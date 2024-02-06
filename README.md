@@ -30,7 +30,7 @@ In this repository, there are resources that were needed to complete the certifi
 <br>
 
 ## 🛠️ Tools
-The following key tools out of other tools were predominantly used throughout this certification: <br> <br>
+The following key tools out of other tools were predominantly used throughout this certification and please click on image for more details. <br> <br>
   <a href="https://www.python.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/python_img.png" height="75"></a>
   <a href="https://jupyter.org/" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/jupyter_notebook.png" height="75"></a>
   <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/sqlite.png" height="75"></a>
@@ -47,18 +47,18 @@ The following key tools out of other tools were predominantly used throughout th
 <br>
 
 ## 📖 Libraries
-The following key Python libraries were used throughout the certification: <br> 
+The following key Python libraries were used throughout the certification and please click on images for more details. <br> 
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/pandas.png" height="35"></a>
-  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/numpy.png" height="35"></a>
-  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/matplotlib.png" height="35"></a>
-  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/seaborn.png" height="35"></a>
-  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/rest-api.png" height="35"></a>
-  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/beautifulsoup.png" height="35"></a>
-  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/sci-py.png" height="35"></a>
-  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/sci-kit.png" height="35"></a>
-  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/folium_png.png" height="35"></a>
-  <a href="https://www.python.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/dash.png" height="35"></a><br>
+  <a href="https://pandas.pydata.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/pandas.png" height="35"></a>
+  <a href="https://numpy.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/numpy.png" height="35"></a>
+  <a href="https://matplotlib.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/matplotlib.png" height="35"></a>
+  <a href="https://seaborn.pydata.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/seaborn.png" height="35"></a>
+  <a href="https://www.ibm.com/topics/rest-apis" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/rest-api.png" height="35"></a>
+  <a href="https://beautiful-soup-4.readthedocs.io/en/latest/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/beautifulsoup.png" height="35"></a>
+  <a href="https://scipy.org/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/sci-py.png" height="35"></a>
+  <a href="https://scikit-learn.org/stable/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/sci-kit.png" height="35"></a>
+  <a href="https://pypi.org/project/folium/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/folium_png.png" height="35"></a>
+  <a href="https://dash.plotly.com/" target="_blank"><img  src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/dash.png" height="35"></a><br>
 </p>
 
 <br>
@@ -73,12 +73,11 @@ The following key Python libraries were used throughout the certification: <br>
 
 
 ## 🏆 Certificates 
-To verify the certificates, click the images to follow the links.
+To verify the certificate, please click on the image below.
 
 <p align="middle">
   <a href="https://coursera.org/share/1446ac5ea1095b5973117386cc2e75a4"><img src="https://github.com/satyndragautam/IBM-Data-Science-Cert/blob/main/images/ibm_certi.png" height="400"></a>
 
-<br>
 <br>
 <br>
 <br>
